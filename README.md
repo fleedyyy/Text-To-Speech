@@ -1,11 +1,11 @@
 # Text-To-Speech Machine Learning
 
 ### Requirements
-torch>=1.13.0
-transformers>=4.30.0
-datasets>=2.10.0
-gradio>=4.0.0
-scipy>=1.10.0
+torch>=1.13.0  
+transformers>=4.30.0  
+datasets>=2.10.0  
+gradio>=4.0.0  
+scipy>=1.10.0  
 
 
 ### Demonstration Video
