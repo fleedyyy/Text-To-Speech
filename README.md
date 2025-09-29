@@ -19,6 +19,6 @@ Paste the link on your desired browser
 
 
 ## Credits
-Carlson Othello Hou
-Marcel Lius Vincent Candra
-Kim, Dong Hwee Gabriel
+Carlson Othello Hou  
+Marcel Lius Vincent Candra  
+Kim, Dong Hwee Gabriel  
